@@ -1,0 +1,694 @@
+[
+  {
+    "filesToResolve": [
+      {
+        "path": "packages/eslint-plugin-react-hooks/__tests__/ESLintRuleExhaustiveDeps-test.js",
+        "url": "https://github.com/facebook/react/raw/4821d609e99f6bd6454279ee2a82448703d2f616/packages/eslint-plugin-react-hooks/__tests__/ESLintRuleExhaustiveDeps-test.js"
+      },
+      {
+        "path": "packages/eslint-plugin-react-hooks/src/ExhaustiveDeps.js",
+        "url": "https://github.com/facebook/react/raw/4821d609e99f6bd6454279ee2a82448703d2f616/packages/eslint-plugin-react-hooks/src/ExhaustiveDeps.js"
+      }
+    ],
+    "bugUrl": "https://github.com/facebook/react/issues/18985"
+  },
+  {
+    "filesToResolve": [
+      {
+        "path": "packages/eslint-plugin-react-hooks/__tests__/ESLintRuleExhaustiveDeps-test.js",
+        "url": "https://github.com/facebook/react/raw/487c693846dbe58a68a410c658699d27386323b3/packages/eslint-plugin-react-hooks/__tests__/ESLintRuleExhaustiveDeps-test.js"
+      },
+      {
+        "path": "packages/eslint-plugin-react-hooks/src/ExhaustiveDeps.js",
+        "url": "https://github.com/facebook/react/raw/487c693846dbe58a68a410c658699d27386323b3/packages/eslint-plugin-react-hooks/src/ExhaustiveDeps.js"
+      }
+    ],
+    "bugUrl": "https://github.com/facebook/react/issues/18902"
+  },
+  {
+    "filesToResolve": [
+      {
+        "path": "packages/react-devtools-shared/src/__tests__/__snapshots__/profilingCache-test.js.snap",
+        "url": "https://github.com/facebook/react/raw/69e732ac9d32ecb7251834af4209d46fff5d5102/packages/react-devtools-shared/src/__tests__/__snapshots__/profilingCache-test.js.snap"
+      },
+      {
+        "path": "packages/react-devtools-shared/src/devtools/views/Profiler/utils.js",
+        "url": "https://github.com/facebook/react/raw/69e732ac9d32ecb7251834af4209d46fff5d5102/packages/react-devtools-shared/src/devtools/views/Profiler/utils.js"
+      }
+    ],
+    "bugUrl": "https://github.com/facebook/react/issues/18798"
+  },
+  {
+    "filesToResolve": [
+      {
+        "path": "packages/react-reconciler/src/ReactFiberBeginWork.new.js",
+        "url": "https://github.com/facebook/react/raw/cfefc81ab2f5103bedc9e45701e8c00c0689f499/packages/react-reconciler/src/ReactFiberBeginWork.new.js"
+      },
+      {
+        "path": "packages/react-reconciler/src/ReactFiberBeginWork.old.js",
+        "url": "https://github.com/facebook/react/raw/cfefc81ab2f5103bedc9e45701e8c00c0689f499/packages/react-reconciler/src/ReactFiberBeginWork.old.js"
+      },
+      {
+        "path": "packages/react-reconciler/src/__tests__/ReactSuspenseWithNoopRenderer-test.js",
+        "url": "https://github.com/facebook/react/raw/cfefc81ab2f5103bedc9e45701e8c00c0689f499/packages/react-reconciler/src/__tests__/ReactSuspenseWithNoopRenderer-test.js"
+      }
+    ],
+    "bugUrl": "https://github.com/facebook/react/issues/18657"
+  },
+  {
+    "filesToResolve": [
+      {
+        "path": "packages/react-reconciler/src/ReactFiberHooks.js",
+        "url": "https://github.com/facebook/react/raw/2dddd1e00cdadad1783aa55ac65a28634590e9c1/packages/react-reconciler/src/ReactFiberHooks.js"
+      },
+      {
+        "path": "packages/react-reconciler/src/__tests__/ReactHooksWithNoopRenderer-test.internal.js",
+        "url": "https://github.com/facebook/react/raw/2dddd1e00cdadad1783aa55ac65a28634590e9c1/packages/react-reconciler/src/__tests__/ReactHooksWithNoopRenderer-test.internal.js"
+      },
+      {
+        "path": "packages/react-reconciler/src/__tests__/ReactSuspenseWithNoopRenderer-test.internal.js",
+        "url": "https://github.com/facebook/react/raw/2dddd1e00cdadad1783aa55ac65a28634590e9c1/packages/react-reconciler/src/__tests__/ReactSuspenseWithNoopRenderer-test.internal.js"
+      }
+    ],
+    "bugUrl": "https://github.com/facebook/react/issues/18486"
+  },
+  {
+    "filesToResolve": [
+      {
+        "path": "packages/react-dom/src/__tests__/ReactDOMFiberAsync-test.internal.js",
+        "url": "https://github.com/facebook/react/raw/b53ea6ca05d2ccb9950b40b33f74dfee0421d872/packages/react-dom/src/__tests__/ReactDOMFiberAsync-test.internal.js"
+      },
+      {
+        "path": "packages/react-reconciler/src/ReactFiberWorkLoop.js",
+        "url": "https://github.com/facebook/react/raw/b53ea6ca05d2ccb9950b40b33f74dfee0421d872/packages/react-reconciler/src/ReactFiberWorkLoop.js"
+      }
+    ],
+    "bugUrl": "https://github.com/facebook/react/issues/17066"
+  },
+  {
+    "filesToResolve": [
+      {
+        "path": "packages/react-devtools-extensions/popups/disabled.html",
+        "url": "https://github.com/facebook/react/raw/c317fc273b6fbe03e30971f7dd5690e540f6a029/packages/react-devtools-extensions/popups/disabled.html"
+      },
+      {
+        "path": "packages/react-devtools/README.md",
+        "url": "https://github.com/facebook/react/raw/c317fc273b6fbe03e30971f7dd5690e540f6a029/packages/react-devtools/README.md"
+      }
+    ],
+    "bugUrl": "https://github.com/facebook/react/issues/16690"
+  },
+  {
+    "filesToResolve": [
+      {
+        "path": "packages/react-devtools-shared/src/__tests__/profilerStore-test.js",
+        "url": "https://github.com/facebook/react/raw/5d3d71b1ddbbf5743108c998904f7bb575f4330e/packages/react-devtools-shared/src/__tests__/profilerStore-test.js"
+      },
+      {
+        "path": "packages/react-devtools-shared/src/backend/renderer.js",
+        "url": "https://github.com/facebook/react/raw/5d3d71b1ddbbf5743108c998904f7bb575f4330e/packages/react-devtools-shared/src/backend/renderer.js"
+      }
+    ],
+    "bugUrl": "https://github.com/facebook/react/issues/16446"
+  },
+  {
+    "filesToResolve": [
+      {
+        "path": "packages/react-dom/src/__tests__/ReactDOMFiber-test.js",
+        "url": "https://github.com/facebook/react/raw/1fecba92307041e181ce425082d4d21ec8928728/packages/react-dom/src/__tests__/ReactDOMFiber-test.js"
+      },
+      {
+        "path": "packages/react-reconciler/src/ReactFiberCommitWork.js",
+        "url": "https://github.com/facebook/react/raw/1fecba92307041e181ce425082d4d21ec8928728/packages/react-reconciler/src/ReactFiberCommitWork.js"
+      }
+    ],
+    "bugUrl": "https://github.com/facebook/react/issues/14811"
+  },
+  {
+    "filesToResolve": [
+      {
+        "path": "packages/react-reconciler/src/ReactFiberHooks.js",
+        "url": "https://github.com/facebook/react/raw/f1bf281605444b342f4c37718092accbe3f98702/packages/react-reconciler/src/ReactFiberHooks.js"
+      },
+      {
+        "path": "packages/react-reconciler/src/__tests__/ReactHooksWithNoopRenderer-test.internal.js",
+        "url": "https://github.com/facebook/react/raw/f1bf281605444b342f4c37718092accbe3f98702/packages/react-reconciler/src/__tests__/ReactHooksWithNoopRenderer-test.internal.js"
+      }
+    ],
+    "bugUrl": "https://github.com/facebook/react/issues/14360"
+  },
+  {
+    "filesToResolve": [
+      {
+        "path": "packages/react-dom/src/__tests__/ReactDOMSuspensePlaceholder-test.internal.js",
+        "url": "https://github.com/facebook/react/raw/f55795c8ee37ba882fc69192da9478a8a1f8ce1a/packages/react-dom/src/__tests__/ReactDOMSuspensePlaceholder-test.internal.js"
+      }
+    ],
+    "bugUrl": "https://github.com/facebook/react/issues/14188"
+  },
+  {
+    "filesToResolve": [
+      {
+        "path": "packages/react-dom/src/__tests__/ReactDOMComponent-test.js",
+        "url": "https://github.com/facebook/react/raw/f47a958ea8d328190c88bac1ad6f85eaaaefc310/packages/react-dom/src/__tests__/ReactDOMComponent-test.js"
+      },
+      {
+        "path": "packages/react-dom/src/client/ReactDOM.js",
+        "url": "https://github.com/facebook/react/raw/f47a958ea8d328190c88bac1ad6f85eaaaefc310/packages/react-dom/src/client/ReactDOM.js"
+      },
+      {
+        "path": "packages/react-dom/src/client/ReactDOMHostConfig.js",
+        "url": "https://github.com/facebook/react/raw/f47a958ea8d328190c88bac1ad6f85eaaaefc310/packages/react-dom/src/client/ReactDOMHostConfig.js"
+      }
+    ],
+    "bugUrl": "https://github.com/facebook/react/issues/13777"
+  },
+  {
+    "filesToResolve": [
+      {
+        "path": "packages/shared/invokeGuardedCallbackImpl.js",
+        "url": "https://github.com/facebook/react/raw/17e703cb9692c26795c794a54e2239f603ee090d/packages/shared/invokeGuardedCallbackImpl.js"
+      }
+    ],
+    "bugUrl": "https://github.com/facebook/react/issues/13688"
+  },
+  {
+    "filesToResolve": [
+      {
+        "path": "packages/react-dom/src/client/ReactDOMSelection.js",
+        "url": "https://github.com/facebook/react/raw/9c961c0a279e31015b8df987bd86e6fec7548614/packages/react-dom/src/client/ReactDOMSelection.js"
+      }
+    ],
+    "bugUrl": "https://github.com/facebook/react/issues/13648"
+  },
+  {
+    "filesToResolve": [
+      {
+        "path": "packages/shared/warningWithoutStack.js",
+        "url": "https://github.com/facebook/react/raw/1b2646a403a23556084189f055d75d68da2a6cd4/packages/shared/warningWithoutStack.js"
+      }
+    ],
+    "bugUrl": "https://github.com/facebook/react/issues/13610"
+  },
+  {
+    "filesToResolve": [
+      {
+        "path": ".eslintrc.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/.eslintrc.js"
+      },
+      {
+        "path": "fixtures/packaging/browserify/dev/package.json",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/fixtures/packaging/browserify/dev/package.json"
+      },
+      {
+        "path": "fixtures/packaging/browserify/dev/yarn.lock",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/fixtures/packaging/browserify/dev/yarn.lock"
+      },
+      {
+        "path": "fixtures/packaging/browserify/prod/package.json",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/fixtures/packaging/browserify/prod/package.json"
+      },
+      {
+        "path": "fixtures/packaging/browserify/prod/yarn.lock",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/fixtures/packaging/browserify/prod/yarn.lock"
+      },
+      {
+        "path": "fixtures/packaging/brunch/dev/package.json",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/fixtures/packaging/brunch/dev/package.json"
+      },
+      {
+        "path": "fixtures/packaging/brunch/dev/yarn.lock",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/fixtures/packaging/brunch/dev/yarn.lock"
+      },
+      {
+        "path": "fixtures/packaging/brunch/prod/package.json",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/fixtures/packaging/brunch/prod/package.json"
+      },
+      {
+        "path": "fixtures/packaging/brunch/prod/yarn.lock",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/fixtures/packaging/brunch/prod/yarn.lock"
+      },
+      {
+        "path": "fixtures/packaging/rjs/dev/config.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/fixtures/packaging/rjs/dev/config.js"
+      },
+      {
+        "path": "fixtures/packaging/rjs/prod/config.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/fixtures/packaging/rjs/prod/config.js"
+      },
+      {
+        "path": "fixtures/packaging/systemjs-builder/dev/config.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/fixtures/packaging/systemjs-builder/dev/config.js"
+      },
+      {
+        "path": "fixtures/packaging/systemjs-builder/prod/config.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/fixtures/packaging/systemjs-builder/prod/config.js"
+      },
+      {
+        "path": "fixtures/schedule/index.html",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/fixtures/schedule/index.html"
+      },
+      {
+        "path": "fixtures/tracking/index.html",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/fixtures/tracking/index.html"
+      },
+      {
+        "path": "fixtures/tracking/script.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/fixtures/tracking/script.js"
+      },
+      {
+        "path": "fixtures/unstable-async/suspense/package.json",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/fixtures/unstable-async/suspense/package.json"
+      },
+      {
+        "path": "fixtures/unstable-async/suspense/src/components/App.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/fixtures/unstable-async/suspense/src/components/App.js"
+      },
+      {
+        "path": "fixtures/unstable-async/suspense/src/index.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/fixtures/unstable-async/suspense/src/index.js"
+      },
+      {
+        "path": "fixtures/unstable-async/suspense/yarn.lock",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/fixtures/unstable-async/suspense/yarn.lock"
+      },
+      {
+        "path": "packages/interaction-tracking/README.md",
+        "url": "https://github.com/facebook/react/raw/0452c9bba5707e4473fff17a24d36402a957dc66/packages/interaction-tracking/README.md"
+      },
+      {
+        "path": "packages/interaction-tracking/index.js",
+        "url": "https://github.com/facebook/react/raw/0452c9bba5707e4473fff17a24d36402a957dc66/packages/interaction-tracking/index.js"
+      },
+      {
+        "path": "packages/interaction-tracking/npm/index.js",
+        "url": "https://github.com/facebook/react/raw/0452c9bba5707e4473fff17a24d36402a957dc66/packages/interaction-tracking/npm/index.js"
+      },
+      {
+        "path": "packages/interaction-tracking/package.json",
+        "url": "https://github.com/facebook/react/raw/0452c9bba5707e4473fff17a24d36402a957dc66/packages/interaction-tracking/package.json"
+      },
+      {
+        "path": "packages/react-art/package.json",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/packages/react-art/package.json"
+      },
+      {
+        "path": "packages/react-art/src/ReactARTHostConfig.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/packages/react-art/src/ReactARTHostConfig.js"
+      },
+      {
+        "path": "packages/react-dom/package.json",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/packages/react-dom/package.json"
+      },
+      {
+        "path": "packages/react-dom/src/client/ReactDOMHostConfig.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/packages/react-dom/src/client/ReactDOMHostConfig.js"
+      },
+      {
+        "path": "packages/react-native-renderer/package.json",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/packages/react-native-renderer/package.json"
+      },
+      {
+        "path": "packages/react-reconciler/package.json",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/packages/react-reconciler/package.json"
+      },
+      {
+        "path": "packages/react-reconciler/src/ReactFiberCommitWork.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/packages/react-reconciler/src/ReactFiberCommitWork.js"
+      },
+      {
+        "path": "packages/react-reconciler/src/ReactFiberRoot.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/packages/react-reconciler/src/ReactFiberRoot.js"
+      },
+      {
+        "path": "packages/react-reconciler/src/ReactFiberScheduler.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/packages/react-reconciler/src/ReactFiberScheduler.js"
+      },
+      {
+        "path": "packages/react-scheduler/npm/tracking.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/packages/react-scheduler/npm/tracking.js"
+      },
+      {
+        "path": "packages/react-scheduler/npm/umd/react-scheduler-tracking.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/packages/react-scheduler/npm/umd/react-scheduler-tracking.js"
+      },
+      {
+        "path": "packages/react-scheduler/npm/umd/react-scheduler.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/packages/react-scheduler/npm/umd/react-scheduler.js"
+      },
+      {
+        "path": "packages/react-scheduler/package.json",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/packages/react-scheduler/package.json"
+      },
+      {
+        "path": "packages/react-scheduler/src/ReactScheduler.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/packages/react-scheduler/src/ReactScheduler.js"
+      },
+      {
+        "path": "packages/react-scheduler/src/Tracking.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/packages/react-scheduler/src/Tracking.js"
+      },
+      {
+        "path": "packages/react-scheduler/src/TrackingSubscriptions.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/packages/react-scheduler/src/TrackingSubscriptions.js"
+      },
+      {
+        "path": "packages/react-scheduler/src/__tests__/ReactScheduler-test.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/packages/react-scheduler/src/__tests__/ReactScheduler-test.js"
+      },
+      {
+        "path": "packages/react-scheduler/src/__tests__/Tracking-test.internal.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/packages/react-scheduler/src/__tests__/Tracking-test.internal.js"
+      },
+      {
+        "path": "packages/react-scheduler/src/__tests__/Tracking-test.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/packages/react-scheduler/src/__tests__/Tracking-test.js"
+      },
+      {
+        "path": "packages/react-scheduler/src/__tests__/TrackingSubscriptions-test.internal.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/packages/react-scheduler/src/__tests__/TrackingSubscriptions-test.internal.js"
+      },
+      {
+        "path": "packages/react-scheduler/tracking.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/packages/react-scheduler/tracking.js"
+      },
+      {
+        "path": "packages/react-test-renderer/package.json",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/packages/react-test-renderer/package.json"
+      },
+      {
+        "path": "packages/react/package.json",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/packages/react/package.json"
+      },
+      {
+        "path": "packages/react/src/ReactSharedInternals.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/packages/react/src/ReactSharedInternals.js"
+      },
+      {
+        "path": "packages/react/src/__tests__/ReactProfiler-test.internal.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/packages/react/src/__tests__/ReactProfiler-test.internal.js"
+      },
+      {
+        "path": "packages/react/src/__tests__/ReactProfilerDevToolsIntegration-test.internal.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/packages/react/src/__tests__/ReactProfilerDevToolsIntegration-test.internal.js"
+      },
+      {
+        "path": "packages/react/src/__tests__/__snapshots__/ReactProfiler-test.internal.js.snap",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/packages/react/src/__tests__/__snapshots__/ReactProfiler-test.internal.js.snap"
+      },
+      {
+        "path": "packages/shared/ReactFeatureFlags.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/packages/shared/ReactFeatureFlags.js"
+      },
+      {
+        "path": "packages/shared/ReactScheduler.js",
+        "url": "https://github.com/facebook/react/raw/0452c9bba5707e4473fff17a24d36402a957dc66/packages/shared/ReactScheduler.js"
+      },
+      {
+        "path": "packages/shared/forks/ReactFeatureFlags.native-fabric-fb.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/packages/shared/forks/ReactFeatureFlags.native-fabric-fb.js"
+      },
+      {
+        "path": "packages/shared/forks/ReactFeatureFlags.native-fabric-oss.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/packages/shared/forks/ReactFeatureFlags.native-fabric-oss.js"
+      },
+      {
+        "path": "packages/shared/forks/ReactFeatureFlags.native-fb.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/packages/shared/forks/ReactFeatureFlags.native-fb.js"
+      },
+      {
+        "path": "packages/shared/forks/ReactFeatureFlags.native-oss.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/packages/shared/forks/ReactFeatureFlags.native-oss.js"
+      },
+      {
+        "path": "packages/shared/forks/ReactFeatureFlags.persistent.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/packages/shared/forks/ReactFeatureFlags.persistent.js"
+      },
+      {
+        "path": "packages/shared/forks/ReactFeatureFlags.test-renderer.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/packages/shared/forks/ReactFeatureFlags.test-renderer.js"
+      },
+      {
+        "path": "packages/shared/forks/ReactFeatureFlags.test-renderer.www.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/packages/shared/forks/ReactFeatureFlags.test-renderer.www.js"
+      },
+      {
+        "path": "packages/shared/forks/ReactFeatureFlags.www.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/packages/shared/forks/ReactFeatureFlags.www.js"
+      },
+      {
+        "path": "packages/shared/forks/ReactScheduler.umd.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/packages/shared/forks/ReactScheduler.umd.js"
+      },
+      {
+        "path": "packages/shared/forks/ReactScheduler.www.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/packages/shared/forks/ReactScheduler.www.js"
+      },
+      {
+        "path": "packages/shared/forks/ReactSchedulerTracking.umd.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/packages/shared/forks/ReactSchedulerTracking.umd.js"
+      },
+      {
+        "path": "scripts/flow/environment.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/scripts/flow/environment.js"
+      },
+      {
+        "path": "scripts/jest/setupEnvironment.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/scripts/jest/setupEnvironment.js"
+      },
+      {
+        "path": "scripts/rollup/build.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/scripts/rollup/build.js"
+      },
+      {
+        "path": "scripts/rollup/bundles.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/scripts/rollup/bundles.js"
+      },
+      {
+        "path": "scripts/rollup/forks.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/scripts/rollup/forks.js"
+      },
+      {
+        "path": "scripts/rollup/modules.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/scripts/rollup/modules.js"
+      },
+      {
+        "path": "scripts/rollup/plugins/strip-unused-imports.js",
+        "url": "https://github.com/facebook/react/raw/46950a3dfc9e14b5b91ee5823df11883f5d2466e/scripts/rollup/plugins/strip-unused-imports.js"
+      }
+    ],
+    "bugUrl": "https://github.com/facebook/react/issues/13512"
+  },
+  {
+    "filesToResolve": [
+      {
+        "path": "fixtures/dom/src/components/fixtures/selects/index.js",
+        "url": "https://github.com/facebook/react/raw/2d0356a5243b880a8bff853a6bbde97f223dbacf/fixtures/dom/src/components/fixtures/selects/index.js"
+      },
+      {
+        "path": "packages/react-dom/src/client/ReactDOMFiberComponent.js",
+        "url": "https://github.com/facebook/react/raw/2d0356a5243b880a8bff853a6bbde97f223dbacf/packages/react-dom/src/client/ReactDOMFiberComponent.js"
+      }
+    ],
+    "bugUrl": "https://github.com/facebook/react/issues/13222"
+  },
+  {
+    "filesToResolve": [
+      {
+        "path": "packages/react-dom/src/__tests__/ReactErrorLoggingRecovery-test.js",
+        "url": "https://github.com/facebook/react/raw/46d5afc54dbd4d44b370f0a066021678d3a332ac/packages/react-dom/src/__tests__/ReactErrorLoggingRecovery-test.js"
+      },
+      {
+        "path": "packages/react-reconciler/src/ReactFiberCommitWork.js",
+        "url": "https://github.com/facebook/react/raw/46d5afc54dbd4d44b370f0a066021678d3a332ac/packages/react-reconciler/src/ReactFiberCommitWork.js"
+      },
+      {
+        "path": "packages/react-reconciler/src/__tests__/ReactIncrementalErrorLogging-test.internal.js",
+        "url": "https://github.com/facebook/react/raw/46d5afc54dbd4d44b370f0a066021678d3a332ac/packages/react-reconciler/src/__tests__/ReactIncrementalErrorLogging-test.internal.js"
+      },
+      {
+        "path": "scripts/jest/config.build.js",
+        "url": "https://github.com/facebook/react/raw/46d5afc54dbd4d44b370f0a066021678d3a332ac/scripts/jest/config.build.js"
+      }
+    ],
+    "bugUrl": "https://github.com/facebook/react/issues/13188"
+  },
+  {
+    "filesToResolve": [
+      {
+        "path": "packages/react-scheduler/src/ReactScheduler.js",
+        "url": "https://github.com/facebook/react/raw/188c4252a2a87d46199011c1f2ed9a3e8293cf64/packages/react-scheduler/src/ReactScheduler.js"
+      },
+      {
+        "path": "packages/shared/requestAnimationFrameForReact.js",
+        "url": "https://github.com/facebook/react/raw/188c4252a2a87d46199011c1f2ed9a3e8293cf64/packages/shared/requestAnimationFrameForReact.js"
+      }
+    ],
+    "bugUrl": "https://github.com/facebook/react/issues/13000"
+  },
+  {
+    "filesToResolve": [
+      {
+        "path": "packages/react-dom/src/__tests__/ReactDOMInput-test.js",
+        "url": "https://github.com/facebook/react/raw/85fe4ddce7ae4d8c93a8107db9e7e65a0631baeb/packages/react-dom/src/__tests__/ReactDOMInput-test.js"
+      },
+      {
+        "path": "packages/react-dom/src/client/ReactDOMFiberInput.js",
+        "url": "https://github.com/facebook/react/raw/85fe4ddce7ae4d8c93a8107db9e7e65a0631baeb/packages/react-dom/src/client/ReactDOMFiberInput.js"
+      }
+    ],
+    "bugUrl": "https://github.com/facebook/react/issues/12765"
+  },
+  {
+    "filesToResolve": [
+      {
+        "path": "packages/react-dom/src/events/getEventTarget.js",
+        "url": "https://github.com/facebook/react/raw/4ac6f133aff78e7616c7427167f0d43a18441b94/packages/react-dom/src/events/getEventTarget.js"
+      }
+    ],
+    "bugUrl": "https://github.com/facebook/react/issues/12506"
+  },
+  {
+    "filesToResolve": [
+      {
+        "path": "packages/react-dom/src/__tests__/ReactDOMRoot-test.internal.js",
+        "url": "https://github.com/facebook/react/raw/c44665e83278becfe7a3afdf788789536d63387b/packages/react-dom/src/__tests__/ReactDOMRoot-test.internal.js"
+      },
+      {
+        "path": "packages/react-reconciler/src/ReactFiberScheduler.js",
+        "url": "https://github.com/facebook/react/raw/c44665e83278becfe7a3afdf788789536d63387b/packages/react-reconciler/src/ReactFiberScheduler.js"
+      }
+    ],
+    "bugUrl": "https://github.com/facebook/react/issues/12474"
+  },
+  {
+    "filesToResolve": [
+      {
+        "path": "packages/react-dom/src/__tests__/ReactDOMSelect-test.js",
+        "url": "https://github.com/facebook/react/raw/75491a8f4b5924424b94198e7a56b3519f6430c6/packages/react-dom/src/__tests__/ReactDOMSelect-test.js"
+      }
+    ],
+    "bugUrl": "https://github.com/facebook/react/issues/12200"
+  },
+  {
+    "filesToResolve": [
+      {
+        "path": "packages/react-test-renderer/src/ReactTestRenderer.js",
+        "url": "https://github.com/facebook/react/raw/ef8d6d92a28835a8ab89a876f877306a5c3feffe/packages/react-test-renderer/src/ReactTestRenderer.js"
+      },
+      {
+        "path": "packages/react-test-renderer/src/__tests__/ReactTestRenderer-test.js",
+        "url": "https://github.com/facebook/react/raw/ef8d6d92a28835a8ab89a876f877306a5c3feffe/packages/react-test-renderer/src/__tests__/ReactTestRenderer-test.js"
+      }
+    ],
+    "bugUrl": "https://github.com/facebook/react/issues/12106"
+  },
+  {
+    "filesToResolve": [
+      {
+        "path": "packages/react-dom/src/__tests__/ReactServerRenderingHydration.js",
+        "url": "https://github.com/facebook/react/raw/2d4705e7532d32147da8ee61e5760124d068a8a6/packages/react-dom/src/__tests__/ReactServerRenderingHydration.js"
+      },
+      {
+        "path": "packages/react-dom/src/client/ReactDOMComponent.js",
+        "url": "https://github.com/facebook/react/raw/2d4705e7532d32147da8ee61e5760124d068a8a6/packages/react-dom/src/client/ReactDOMComponent.js"
+      }
+    ],
+    "bugUrl": "https://github.com/facebook/react/issues/11807"
+  },
+  {
+    "filesToResolve": [
+      {
+        "path": "packages/react-dom/src/__tests__/ReactStatelessComponent-test.js",
+        "url": "https://github.com/facebook/react/raw/588198d2665db9c45d22687bfaaa87121674d3a2/packages/react-dom/src/__tests__/ReactStatelessComponent-test.js"
+      },
+      {
+        "path": "packages/react-dom/src/__tests__/multiple-copies-of-react-test.js",
+        "url": "https://github.com/facebook/react/raw/588198d2665db9c45d22687bfaaa87121674d3a2/packages/react-dom/src/__tests__/multiple-copies-of-react-test.js"
+      },
+      {
+        "path": "packages/react-dom/src/__tests__/refs-test.js",
+        "url": "https://github.com/facebook/react/raw/588198d2665db9c45d22687bfaaa87121674d3a2/packages/react-dom/src/__tests__/refs-test.js"
+      },
+      {
+        "path": "packages/react-reconciler/src/ReactChildFiber.js",
+        "url": "https://github.com/facebook/react/raw/588198d2665db9c45d22687bfaaa87121674d3a2/packages/react-reconciler/src/ReactChildFiber.js"
+      }
+    ],
+    "bugUrl": "https://github.com/facebook/react/issues/11761"
+  },
+  {
+    "filesToResolve": [
+      {
+        "path": "packages/react/src/ReactElementValidator.js",
+        "url": "https://github.com/facebook/react/raw/a5025b161048c4e7211cf4c7298df7fcfc03bfa0/packages/react/src/ReactElementValidator.js"
+      }
+    ],
+    "bugUrl": "https://github.com/facebook/react/issues/11759"
+  },
+  {
+    "filesToResolve": [
+      {
+        "path": "fixtures/dom/src/components/fixtures/error-handling/index.js",
+        "url": "https://github.com/facebook/react/raw/69e2a0d732e1ca74f6dc5df9d0ddd0bf24373965/fixtures/dom/src/components/fixtures/error-handling/index.js"
+      },
+      {
+        "path": "packages/shared/invokeGuardedCallback.js",
+        "url": "https://github.com/facebook/react/raw/69e2a0d732e1ca74f6dc5df9d0ddd0bf24373965/packages/shared/invokeGuardedCallback.js"
+      }
+    ],
+    "bugUrl": "https://github.com/facebook/react/issues/11687"
+  },
+  {
+    "filesToResolve": [
+      {
+        "path": "packages/react-dom/src/__tests__/ReactDOMServerIntegrationForms-test.js",
+        "url": "https://github.com/facebook/react/raw/5e8beec84b83d6f1836071b5c187fbd95a839b96/packages/react-dom/src/__tests__/ReactDOMServerIntegrationForms-test.js"
+      }
+    ],
+    "bugUrl": "https://github.com/facebook/react/issues/11602"
+  },
+  {
+    "filesToResolve": [
+      {
+        "path": "packages/react-dom/src/__tests__/ReactCompositeComponent-test.js",
+        "url": "https://github.com/facebook/react/raw/f114bad09f7a3ddc11265741cb84250fd08d5890/packages/react-dom/src/__tests__/ReactCompositeComponent-test.js"
+      },
+      {
+        "path": "packages/react-test-renderer/src/ReactShallowRenderer.js",
+        "url": "https://github.com/facebook/react/raw/f114bad09f7a3ddc11265741cb84250fd08d5890/packages/react-test-renderer/src/ReactShallowRenderer.js"
+      },
+      {
+        "path": "packages/react-test-renderer/src/__tests__/ReactShallowRenderer-test.js",
+        "url": "https://github.com/facebook/react/raw/f114bad09f7a3ddc11265741cb84250fd08d5890/packages/react-test-renderer/src/__tests__/ReactShallowRenderer-test.js"
+      }
+    ],
+    "bugUrl": "https://github.com/facebook/react/issues/11496"
+  },
+  {
+    "filesToResolve": [
+      {
+        "path": "src/renderers/dom/shared/eventPlugins/__tests__/EnterLeaveEventPlugin-test.js",
+        "url": "https://github.com/facebook/react/raw/80596c2c92dce264f8572038730ce7aef647c5fa/src/renderers/dom/shared/eventPlugins/__tests__/EnterLeaveEventPlugin-test.js"
+      },
+      {
+        "path": "src/renderers/shared/shared/ReactTreeTraversal.js",
+        "url": "https://github.com/facebook/react/raw/80596c2c92dce264f8572038730ce7aef647c5fa/src/renderers/shared/shared/ReactTreeTraversal.js"
+      }
+    ],
+    "bugUrl": "https://github.com/facebook/react/issues/10906"
+  },
+  {
+    "filesToResolve": [
+      {
+        "path": "src/renderers/testing/ReactTestRendererFiberEntry.js",
+        "url": "https://github.com/facebook/react/raw/7caa035be5aef5ac9ae7541b8c199ef534729782/src/renderers/testing/ReactTestRendererFiberEntry.js"
+      },
+      {
+        "path": "src/renderers/testing/__tests__/ReactTestRenderer-test.js",
+        "url": "https://github.com/facebook/react/raw/7caa035be5aef5ac9ae7541b8c199ef534729782/src/renderers/testing/__tests__/ReactTestRenderer-test.js"
+      }
+    ],
+    "bugUrl": "https://github.com/facebook/react/issues/10616"
+  }
+]
